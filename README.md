@@ -11,8 +11,8 @@ _Just a baby in a meadow collecting dandelions._
 
 ## Software used
 
--   [Blender](https://www.blender.org): A 3D modeling tool.
--   [Unity](https://unity.com): A game engine.
+-   [Blender](https://www.blender.org): 3D modeling tool.
+-   [Unity](https://unity.com): Game engine.
 
 ## Licenses
 
