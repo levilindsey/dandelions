@@ -4,6 +4,8 @@
 
 _Just a baby in a meadow collecting dandelions._
 
+Model, rig, and animations were made from scratch in Blender.
+
 ## Controls
 
 -   WASD to move.
